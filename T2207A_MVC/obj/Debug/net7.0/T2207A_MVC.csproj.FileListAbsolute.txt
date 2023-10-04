@@ -1,0 +1,225 @@
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/appsettings.Development.json
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/appsettings.json
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/T2207A_MVC.staticwebassets.runtime.json
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/T2207A_MVC
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/T2207A_MVC.deps.json
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/T2207A_MVC.runtimeconfig.json
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/T2207A_MVC.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/T2207A_MVC.pdb
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/T2207A_MVC.csproj.AssemblyReference.cache
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/T2207A_MVC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/T2207A_MVC.AssemblyInfoInputs.cache
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/T2207A_MVC.AssemblyInfo.cs
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/T2207A_MVC.csproj.CoreCompileInputs.cache
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/T2207A_MVC.MvcApplicationPartsAssemblyInfo.cache
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/T2207A_MVC.RazorAssemblyInfo.cache
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/T2207A_MVC.RazorAssemblyInfo.cs
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/staticwebassets/msbuild.T2207A_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/staticwebassets/msbuild.build.T2207A_MVC.props
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.T2207A_MVC.props
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.T2207A_MVC.props
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/staticwebassets.build.json
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/staticwebassets.development.json
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/scopedcss/bundle/T2207A_MVC.styles.css
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/scopedcss/projectbundle/T2207A_MVC.bundle.scp.css
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/T2207A_MVC.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/refint/T2207A_MVC.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/T2207A_MVC.pdb
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/T2207A_MVC.genruntimeconfig.cache
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/ref/T2207A_MVC.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Azure.Core.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Azure.Identity.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Humanizer.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/System.CodeDom.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM3/T2207A/T2207A_MVC/T2207A_MVC/obj/Debug/net7.0/T2207A_MVC.csproj.CopyComplete
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\appsettings.Development.json
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\appsettings.json
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\T2207A_MVC.staticwebassets.runtime.json
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\T2207A_MVC.exe
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\T2207A_MVC.deps.json
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\T2207A_MVC.runtimeconfig.json
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\T2207A_MVC.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\T2207A_MVC.pdb
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Azure.Core.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Azure.Identity.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Humanizer.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\System.CodeDom.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\System.Memory.Data.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.csproj.AssemblyReference.cache
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.AssemblyInfoInputs.cache
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.AssemblyInfo.cs
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.csproj.CoreCompileInputs.cache
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.RazorAssemblyInfo.cache
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.RazorAssemblyInfo.cs
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\staticwebassets\msbuild.T2207A_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.T2207A_MVC.props
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.T2207A_MVC.props
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.T2207A_MVC.props
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\staticwebassets.pack.json
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\staticwebassets.build.json
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\staticwebassets.development.json
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\scopedcss\bundle\T2207A_MVC.styles.css
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\scopedcss\projectbundle\T2207A_MVC.bundle.scp.css
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.csproj.CopyComplete
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\refint\T2207A_MVC.dll
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.pdb
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.genruntimeconfig.cache
+D:\T2206M\C# Sem3\Day4\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\ref\T2207A_MVC.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.csproj.AssemblyReference.cache
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.AssemblyInfoInputs.cache
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.AssemblyInfo.cs
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.csproj.CoreCompileInputs.cache
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.RazorAssemblyInfo.cache
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.RazorAssemblyInfo.cs
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\refint\T2207A_MVC.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.pdb
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\appsettings.Development.json
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\appsettings.json
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\T2207A_MVC.staticwebassets.runtime.json
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\T2207A_MVC.exe
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\T2207A_MVC.deps.json
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\T2207A_MVC.runtimeconfig.json
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\T2207A_MVC.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\T2207A_MVC.pdb
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Azure.Core.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Azure.Identity.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Humanizer.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\System.CodeDom.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\System.Memory.Data.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\staticwebassets\msbuild.T2207A_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.T2207A_MVC.props
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.T2207A_MVC.props
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.T2207A_MVC.props
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\staticwebassets.pack.json
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\staticwebassets.build.json
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\staticwebassets.development.json
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\scopedcss\bundle\T2207A_MVC.styles.css
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\scopedcss\projectbundle\T2207A_MVC.bundle.scp.css
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.csproj.CopyComplete
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\T2207A_MVC.genruntimeconfig.cache
+D:\T2206M\DotNet\exam\T2207A_ASP_NET\T2207A_MVC\obj\Debug\net7.0\ref\T2207A_MVC.dll
